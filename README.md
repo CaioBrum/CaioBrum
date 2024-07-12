@@ -1,4 +1,4 @@
-<article text-align="center" width=100% >
+<article background='#fff' border-radius='8px' box-shadow='0 0 10px rgba(0, 0, 0, 0.1)' padding='20px' max-width='400px' width='100%' text-align='center' display='flex' flex-direction='column' align-item='center' >
 🔬 📊 Aspiring to be a great developer! 
 I love RPG and creating mods for games like:
             ⚒️ Minecraft⚒️

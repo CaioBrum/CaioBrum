@@ -12,7 +12,7 @@ I love RPG and creating mods for games like:
 
 
 ## 🪡 Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrum&layout=compact&theme=dracula&hide_border=true&card_width=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrum&layout=compact&theme=github_dark_dimmed &hide_border=true&card_width=100)
 
 ## 🌐 Social Media  
 <div> 

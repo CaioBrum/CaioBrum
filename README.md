@@ -1,4 +1,4 @@
-<div text-align="center">
+<div text-align:center>
 <h3>🔬 📊 Aspiring to be a great developer! </h1>
 <p>I love RPG and creating mods for games like:</p>
 <p>⚒️ Minecraft⚒️</p>

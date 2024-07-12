@@ -1,6 +1,6 @@
-<div width=300px margin=auto background=#fff>
+<div >
 <h3>🔬 📊 Aspiring to be a great developer! </h1>
-<p>I love RPG and creating mods for games like:</p>
+<a border-color=#fff><p>I love RPG and creating mods for games like:</p></a>
 <p>⚒️ Minecraft⚒️</p>
 <p> 🎴Cyberpunk 🎴</p>
 <p>⚔️ Elders Scrolls Online⚔️!</p>  

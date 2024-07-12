@@ -1,9 +1,10 @@
-
+<article>
 🔬 📊 Aspiring to be a great developer! 
 I love RPG and creating mods for games like:
             ⚒️ Minecraft⚒️
             🎴Cyberpunk 🎴
         ⚔️ Elders Scrolls Online⚔️!
+</article>
 
 <!--Start of Api Panel ps.: Pra copiar e colar, só trocar onde tem o nome de Usuário 'CaioBrum'-->
 ## 📚 GitHub Status

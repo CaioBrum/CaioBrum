@@ -1,20 +1,9 @@
-<div style='
-  background: #fff;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  padding: 20px;
-  max-width: 400px;
-  width: 100%;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;'
->
-🔬 📊 Aspiring to be a great developer! 
-I love RPG and creating mods for games like:
-            ⚒️ Minecraft⚒️
-            🎴Cyberpunk 🎴
-        ⚔️ Elders Scrolls Online⚔️!
+<div>
+<h1>🔬 📊 Aspiring to be a great developer! </h1>
+<p>I love RPG and creating mods for games like:</p>
+<p>⚒️ Minecraft⚒️</p>
+<p> 🎴Cyberpunk 🎴</p>
+<p>⚔️ Elders Scrolls Online⚔️!</p>  
 </div>
 
 

@@ -7,7 +7,8 @@ I love RPG and creating mods for games like:
 
 <!--Start of Api Panel ps.: Pra copiar e colar, só trocar onde tem o nome de Usuário 'CaioBrum'-->
 ## 📚 GitHub Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaioBrum&theme=dracula&hide_border=true&card_width=100)](https://git.io/streak-stats) ![Caio Brum GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioBrum&show_icons=true&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaioBrum&theme=github_dark_dimmed&hide_border=true&card_width=100)](https://git.io/streak-stats)
+![Caio Brum GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioBrum&show_icons=true&theme=github_dark_dimmed&hide_border=true&card_width=100)
 
 
 ## 🪡 Skills

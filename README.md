@@ -1,10 +1,22 @@
-<article background='#fff' border-radius='8px' box-shadow='0 0 10px rgba(0, 0, 0, 0.1)' padding='20px' max-width='400px' width='100%' text-align='center' display='flex' flex-direction='column' align-item='center' >
+<div style='
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;'
+>
 🔬 📊 Aspiring to be a great developer! 
 I love RPG and creating mods for games like:
             ⚒️ Minecraft⚒️
             🎴Cyberpunk 🎴
         ⚔️ Elders Scrolls Online⚔️!
-</article>
+</div>
+
 
 <!--Start of Api Panel ps.: Pra copiar e colar, só trocar onde tem o nome de Usuário 'CaioBrum'-->
 ## 📚 GitHub Status

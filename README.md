@@ -1,14 +1,14 @@
-<a align="center" alt="Caio-Stars" href="https://github.com/CaioBrum/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a alt="Caio-Stars" href="https://github.com/CaioBrum/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 
-<a align="center" alt="Caio-Forks" href="https://github.com/CaioBrum/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a alt="Caio-Forks" href="https://github.com/CaioBrum/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 
-<a align="center" alt="Caio-Pulls" href="https://github.com/abhisheknaiidu/CaioBrum/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a alt="Caio-Pulls" href="https://github.com/abhisheknaiidu/CaioBrum/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 
-<a align="center" alt="Caio-Issues" href="https://github.com/abhisheknaiidu/CaioBrum/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a  alt="Caio-Issues" href="https://github.com/abhisheknaiidu/CaioBrum/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
 
-<a align="center" alt="Caio-Contributors" href="https://github.com/abhisheknaiidu/CaioBrum/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a alt="Caio-Contributors" href="https://github.com/abhisheknaiidu/CaioBrum/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 
-<a align="center" alt="Caio-Blob" href="https://github.com/CaioBrum/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a alt="Caio-Blob" href="https://github.com/CaioBrum/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 🔬 📊 Aspiring to be a great developer! 
 I love RPG and creating mods for games like:

@@ -1,4 +1,4 @@
-<article>
+<article text-align="center" width=100% >
 🔬 📊 Aspiring to be a great developer! 
 I love RPG and creating mods for games like:
             ⚒️ Minecraft⚒️

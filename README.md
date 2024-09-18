@@ -1,11 +1,5 @@
 <div >
-<h3>🔬 📊 Aspiring to be a great developer! </h1>
-<a border-color=#fff><p>I love RPG and creating mods for games like:</p></a>
-<p>⚒️ Minecraft⚒️</p>
-<p> 🎴Cyberpunk 🎴</p>
-<p>⚔️ Elders Scrolls Online⚔️!</p>  
-</div>
-
+<h3>I like how blue taste cold</h3>
 
 <!--Start of Api Panel ps.: Pra copiar e colar, só trocar onde tem o nome de Usuário 'CaioBrum'-->
 ## 📚 GitHub Status
